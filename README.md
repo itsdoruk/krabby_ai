@@ -7,7 +7,7 @@ A rust-based command-line AI chatbot powered by [Hack Club's AI API and DeepSeek
 You can install Krabby using cargo:
 
 ```bash
-cargo install krabby
+cargo install krabby-ai
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ cargo install krabby
 Once installed, simply run:
 
 ```bash
-krabby
+krabby-ai
 ```
 
 This will start an interactive chat session. You can:
