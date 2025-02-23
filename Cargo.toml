@@ -1,12 +1,12 @@
 [package]
-name = "krabby-ai"
+name = "krabby_ai"
 version = "1.1.0"
 edition = "2021"
 description = " A rust-based command-line AI chatbot"
 license = "MIT"
 
 [[bin]]
-name = "krabby-ai"
+name = "krabby_ai"
 path = "src/bin/main.rs"
 
 [dependencies]

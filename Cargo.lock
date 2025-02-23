@@ -693,7 +693,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "krabby"
+name = "krabby_ai"
 version = "1.1.0"
 dependencies = [
  "colored",
