@@ -1,6 +1,6 @@
 # Krabby
 
-A rust-based command-line AI chatbot powered by [Hack Club's AI API and DeepSeek R1](https://www.ai.hackclub.com/). Have natural conversations with AI right from your terminal.
+A rust-based command-line AI chatbot powered by [Hack Club's AI API](https://www.ai.hackclub.com/). Have natural conversations with AI right from your terminal.
 
 ## Installation
 
